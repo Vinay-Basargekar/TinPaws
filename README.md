@@ -1,4 +1,4 @@
-# TinDog Project
+# TinPaws Project
 
 ![](./screenshot.png)
 
@@ -51,37 +51,37 @@ Heart:
 
 ## Text:
 
-Meet new and interesting dogs nearby.
+Meet new cats nearby, because every whisker tells a story.
 
 Easy to use.
-So easy to use, even your dog could do it.
+So simple, even your cat could master it.
 
 Elite Clientele.
-We have all the dogs, the greatest dogs.
+We have all the cats, the most majestic cats.
 
 Guaranteed to work.
-Find the love of your dog's life or your money back.
+Find the love of your cat's nine lives or your money back.
 
-"I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."
-Pebbles, New York
+"I no longer have to chase mice for companionship. I've found the coolest Siamese on TinPaws. Meow."
+Simba, Pune
 
-A Plan for Every Dog's Needs
-Simple and affordable price plans for you and your dog.
+Don't let your cat miss out on the purrfect connection
+Join TinPaws and let your feline friend find companionship in the most convenient way possible!
 
-Chihuahua
+Tabby
 $0/mo
-5 Matches Per Day
-10 Messages Per Day
+5 Laser Pointer Matches Per Day
+10 Meow Messages Per Day
 Unlimited App Usage
 
-Labrador
+Siamese
 $15/mo
-Unlimited Matches
-Unlimited Messages
+Unlimited Naptime Matches
+Unlimited Purr Messages
 Unlimited App Usage
 
-Mastiff
+Maine Coon
 $29/mo
-Pirority Listing
-Unlimited Matches & Messages
+Priority Sunbeam Listing
+Unlimited Matches & Purrfect Messages
 Unlimited App Usage
